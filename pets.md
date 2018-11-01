@@ -1,3 +1,3 @@
-#Pets
+# pets
 
-I love rabbits! They taste like chicken.
+Polar bears are objectively the superior species of animals.
